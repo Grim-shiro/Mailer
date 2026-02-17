@@ -1,0 +1,11 @@
+{
+  "name": "suggestion-relay",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Serverless relay for budget suggestions via Gmail SMTP",
+  "main": "api/suggestion-email.js",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "nodemailer": "^6.9.0"
+  }
+}
